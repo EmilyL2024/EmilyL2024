@@ -4,7 +4,9 @@ Welcome! My name is Emily, and I'm an undergraduate student at Wake Forest Unive
 
 #### Projects on the page:
 - Course projects from Data Structure and Algorithm (Java)
-- Current Research project: dengue classifier (R)
+  https://github.com/EmilyL2024/course-projects/
+- Completed Research project: Assessing the generalizability of a dengue classifer (R)
+  https://github.com/EmilyL2024/dengue-generalizability
 
 #### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
